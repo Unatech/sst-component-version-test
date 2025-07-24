@@ -1,8 +1,10 @@
 {
-  "component": "componentX",
+  "component": "componentY",
   "version": "1",
   "repo": "https://github.com/Unatech/sst-component-version-test.git",
-  "git_commit": "fa350b4a366a1e3637f0b0574c6749853e58a859",
+  "git_commit": "375025292b0843a7c99b8e29362ee057e2eac58a",
   "git_tag": "",
-  "path": "componentX/"
+  "path": "componentY/"
 }
+
+steve2
